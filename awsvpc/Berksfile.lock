@@ -1,0 +1,7 @@
+DEPENDENCIES
+  awsvpc
+    path: .
+    metadata: true
+
+GRAPH
+  awsvpc (0.20.0)
